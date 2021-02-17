@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Duration in days</string>
+    <string name="age_days">Duration in days</string>
+    <string name="selected_day">Selected Date</string>
+    <string name="select_day">Select Date</string>
+    <string name="in_days">IN DAYS</string>
+    <string name="age">DURATION</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+</resources>
